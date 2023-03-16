@@ -1,0 +1,9 @@
+php
+.project
+.*.swp
+.*.swo
+*.sublime-project
+*.sublime-workspace
+
+/node_modules/*
+/package-lock.json
